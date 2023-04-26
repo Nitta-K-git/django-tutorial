@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     "polls.apps.PollsConfig",
     "polls2.apps.PollsConfig",
+    "formview_sample.apps.FormviewSampleConfig",
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
