@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     "polls.apps.PollsConfig",
     "polls2.apps.PollsConfig",
     "formview_sample.apps.FormviewSampleConfig",
+    "form_tag.apps.FormTagConfig",
+    "register.apps.RegisterConfig",
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
