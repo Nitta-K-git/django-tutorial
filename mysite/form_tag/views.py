@@ -1,3 +1,4 @@
+from typing import Any, Dict
 from django.http import HttpResponse, HttpResponseRedirect
 from django.template import loader
 from django.shortcuts import render, get_object_or_404
