@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "register.apps.RegisterConfig",
     "add_attr.apps.AddAttrConfig",
     "valid_post.apps.ValidPostConfig",
+    "confirm.apps.ConfirmConfig",
 
     'django.contrib.admin',
     'django.contrib.auth',

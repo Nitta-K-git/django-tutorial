@@ -9,6 +9,7 @@ urlpatterns = [
     path("register/", include("register.urls")),
     path("add_attr/", include("add_attr.urls")),
     path("valid_post/", include("valid_post.urls")),
+    path("confirm/", include("confirm.urls")),
 
     path("admin/", admin.site.urls),
 ]
